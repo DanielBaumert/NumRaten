@@ -4,8 +4,6 @@ using System.Collections.Generic;
 
 class NumRaten { 
 	private static Random Rnd;
-	public static void Main(string[] args){ 
-		 private static Random Rnd;
         public static void Main(string[] args) {
             Rnd = new Random();
             Console.Clear();
